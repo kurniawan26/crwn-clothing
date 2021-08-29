@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  overflow-x: hidden;
+}
+
+body {
+  line-height: 1;
+  font-weight: 400;
+  color: #555;
+  overflow-x: hidden;
+  font-family: "Open Sans", sans-serif;
+}
+
+/**************************/
+/* GENRAL REUSABLE COMPONENTS */
+/**************************/
+
+.container {
+  max-width: 80%;
+  padding: 3.2rem;
+  margin: 0 auto;
+}
