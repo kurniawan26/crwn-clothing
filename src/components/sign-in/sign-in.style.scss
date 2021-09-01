@@ -1,0 +1,21 @@
+.sign-in {
+  width: 30vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+
+  h1{
+      font-size: 2rem;
+  }
+
+  span{
+    font-size: 1.8rem;
+    margin-top: 1rem;
+  }
+}
+
+
+.button-container{
+  display: flex;
+  gap: 2rem;
+}

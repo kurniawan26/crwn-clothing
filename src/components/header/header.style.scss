@@ -30,7 +30,9 @@
         color: #aaa;
         font-weight: bold;
         transition: all .3s;
-
+        text-transform: uppercase;
+        font-weight: 600;
+        cursor: pointer;
         &:hover{
             color: #000;
         }
